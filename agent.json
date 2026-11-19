@@ -1,0 +1,1 @@
+{"client_id": "https://flightstatusquery.github.io/agent.json", "client_name": "Flight Status Query", "token_endpoint_auth_method": "private_key_jwt", "token_endpoint_auth_signing_alg": "ES256", "grant_types": ["urn:ietf:params:oauth:grant-type:device_code", "refresh_token"], "scope": "bookings:read", "jwks_uri": "https://flightstatusquery.github.io/jwks.json"}
